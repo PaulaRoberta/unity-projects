@@ -1,1 +1,1 @@
-Esse aqui é um repositório do unity 3D
+Esse aqui é um repositório de desenvolvimento de jogos no unity 3D
